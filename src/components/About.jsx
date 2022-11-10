@@ -4,6 +4,7 @@ import "../css/about.css";
 import {MdOutlineEngineering} from "react-icons/md"
 import {AiOutlineUser} from "react-icons/ai"
 import {IoLibraryOutline} from "react-icons/io5"
+import  IMG7819 from "../assets/IMG_7810.png"
 
 const About = () => {
   return (
@@ -13,7 +14,7 @@ const About = () => {
       <div className="container about_container">
         <div className="about_me">
           <div className="about_me-img">
-            <img src="" alt="something goes here!"/>
+            <img src={IMG7819} alt="something goes here!"/>
           </div>
         </div>
         <div className="about_content">
@@ -26,7 +27,7 @@ const About = () => {
             <article className="about_card">
               <AiOutlineUser className="about_icon"/>
               <h5>Clients</h5>
-              <small>300+ World Wide</small>
+              <small>100+ World Wide</small>
             </article>
             <article className="about_card">
               <IoLibraryOutline className="about_icon"/>
@@ -34,7 +35,7 @@ const About = () => {
               <small>50+ Projects Developed</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, culpa repudiandae quam ut molestias velit vero doloremque! Dolorum soluta id facere atque, molestiae modi quia, reprehenderit quis veniam possimus eligendi?</p>
+          <p>I'm a 25 year old Software Engineer based out of Winnipeg, MB! I started my engineering journey 3 years ago after getting my Bachelor Degree in Psychology and Sociology from the University of Manitoba. I started learning Software Engineering because of my natural curiousity towards the world and how things are being more and more digitized.</p>
           <a href="#contact" className="btn btn-primary">Lets Talk!</a>
         </div>
       </div>

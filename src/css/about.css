@@ -6,6 +6,7 @@
 
 .about_me {
   width: 100%;
+  height: 500px;
   aspect-ratio: 1/1;
   border-radius: 2rem;
   background: linear-gradient(45deg, transparent, var(--color-primary), transparent);
@@ -20,7 +21,7 @@
   transition: var(--transition);
 }
 
-about_me-img:hover {
+.about_me-img:hover {
   transform: rotate(0deg);
 }
 

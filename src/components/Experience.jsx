@@ -50,43 +50,43 @@ const Experience = () => {
           </div>
         </div>
         <div className="experience_backend">
-        <h3>Backend Development</h3>
-          <div className="experience_content">
-          <article className="experience_details">
-              <BsPatchCheckFill className="experince_details-icon"/>
-              <div>
-                <h4>Node JS</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
+          <h3>Backend Development</h3>
+            <div className="experience_content">
             <article className="experience_details">
-              <BsPatchCheckFill className="experince_details-icon"/>
-              <div>
-                <h4>Python</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
-            <article className="experience_details">
-              <BsPatchCheckFill className="experince_details-icon"/>
-              <div>
-                <h4>MySQL / GraphSQL</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
-            <article className="experience_details">
-              <BsPatchCheckFill className="experince_details-icon"/>
-              <div>
-                <h4>MongoDB</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
-            <article className="experience_details">
-              <BsPatchCheckFill className="experince_details-icon"/>
-              <div>
-                <h4>Express JS</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
+                <BsPatchCheckFill className="experince_details-icon"/>
+                <div>
+                  <h4>Node JS</h4>
+                  <small className="text-light">Experienced</small>
+                </div>
+              </article>
+              <article className="experience_details">
+                <BsPatchCheckFill className="experince_details-icon"/>
+                <div>
+                  <h4>Python</h4>
+                  <small className="text-light">Experienced</small>
+                </div>
+              </article>
+              <article className="experience_details">
+                <BsPatchCheckFill className="experince_details-icon"/>
+                <div>
+                  <h4>MySQL / GraphSQL</h4>
+                  <small className="text-light">Experienced</small>
+                </div>
+              </article>
+              <article className="experience_details">
+                <BsPatchCheckFill className="experince_details-icon"/>
+                <div>
+                  <h4>MongoDB</h4>
+                  <small className="text-light">Experienced</small>
+                </div>
+              </article>
+              <article className="experience_details">
+                <BsPatchCheckFill className="experince_details-icon"/>
+                <div>
+                  <h4>Express JS</h4>
+                  <small className="text-light">Experienced</small>
+                </div>
+              </article>
           </div>
         </div>
       </div>
